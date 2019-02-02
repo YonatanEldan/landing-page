@@ -1,22 +1,26 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
-As of January 2nd, 2019, the Forecast Foundation has not been contacted by any agency anywhere in the world in a way which requires that contact not to be disclosed. 
+- -----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+As of Feb 2nd, 2019, the Forecast Foundation has not been contacted by any agency anywhere in the world in a way which requires that contact not to be disclosed. 
 
 The Forecast Foundation will publicly disclose any sort of inquiry from government agencies that falls outside the scope of regular business operations.
+
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEE6zArx1tmT3TS8On2Qk4PTUq7u+AFAlws3dAACgkQQk4PTUq7
-u+BjUw//ah22JHVhN/7rRFhz9VUxhwrJTVDw+o4HWq93WUYqSGamSc4XqlowGBuG
-c+kx+iqc2id8V73dBbIJlSBN1LOnj0BOIIvoZFPlRCZ2CT6Ql2Fhe6JZX70O1wje
-A5BX3FOPkZxulb1rSPONZungwy917H+56tBTb+vYIkgAcfoA1O87oiSu//6XCcEs
-nS2jrsYu36nK/YoRaUbZbKptmIEurDbpuVgNYZZgVtCxieWnJW+pq2VIgCan843Z
-XiPsg/Ygx183/2TYSDcxlpP+q9ffdjRbFI3wQu/L0jLziYs0Eietg/wXhs3ngttG
-PeZ4ubTJbcWTGk3q60lXXshE3OVzdjIHlF5uMzsUjGBuqFOslXR/0DQUtGYKoIbo
-oIHwgYA9hBxbXlKY9dyODB3sZddATNLx1i8Lbued2AnRF89HTLAoPenXKi5oKXLJ
-+S5iUPVcRSYJyo8GLS8Q+8G0oa8Hv4WYvyNy2273ydXQuiDwVNM314eftT4+Ou9I
-LXusffAtJU6EbVo0YUv/80pZr73W1LeWtBd5wOZQ69T78wQAzX6DQpIcsyFs66ey
-bz6HrXnlFwQfoRWtNk/bWdS2dVpL4+UaA8GP+6WkvQdYhah2GIkZW9OVc+sNCyTr
-vXj4aD7jGp/6rM0nGLRFxn7Vbd0Oq6Ju9ea9rBG7bK2QshxK9gM=
-=vLE7
+iQIzBAEBCAAdFiEE6zArx1tmT3TS8On2Qk4PTUq7u+AFAlxV+60ACgkQQk4PTUq7
+u+D69A/6Ax2m+qdqVWmw+5DhOlGXTTunHqO78gOPMO96/tsd1Z7EAnKEB3PQqNXy
+0ZFt8+Oep2f2jRcLe0oL7FX7wV7FAWX6YGhzyKlAbll8BlrtzuwhPR+RucLQ7vo+
+KR/e0lORqHOzVNya9TE3qRya2TFA1155gVH4bvVW4Zqm3QiNDUiRJuxPbidskwjz
+4z2eML1WUg63w+cOcTHZ/MbArMhUE2Qb7sFfERi+rDvH49/gGZck2a5ms6IEWqVn
+HFRDFNaM4P6u+LfS10LMONLMRA6DdsLuZ9NPNs9pita32GQ+ShfkYqyFRUpaXGgy
+NpisFp43qLYVz89lFrRjGCFeUfwE4DRM3tN2NNhy5NgRhcPCUA9Rdwn/4hALGKMP
+vFbqdJmikGGXg2C+qzkORyt8GMqpCcO14eZwXxldxPllx3JAYcBXBBkymYQBfGxp
+SrtgZAcSyi7Um+rP0Lba6ugB81YfIwMsrD3BOe+NU2hZy1Nsr53mgTRRc3YPp5Mk
+ROJSEzB2Fn2G+othPzUnAZ9lOUjKS49/8o0vSz92R3jyYXu1on6y2k0ApCZkU7JC
+f7hN4QjCBU9i4dlyqGr4FA94memcjjoL46Smu8eOLlkBE7g6TYqKkXcoPREyaEiy
+Y0qjTowxZvQ2HH/DLyBx49ImqmyotsLurlvpJf4f4eLa3MyOUJY=
+=avtu
 -----END PGP SIGNATURE-----
